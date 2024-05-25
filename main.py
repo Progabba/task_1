@@ -1,1 +1,5 @@
-print('Hello')
+def foo():
+    pass
+
+def func():
+    ...
